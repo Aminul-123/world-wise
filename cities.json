@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "d45c",
+      "cityName": "Borough of Thurrock",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-09-01T14:58:39.850Z",
+      "notes": "",
+      "position": {
+        "lat": "51.50874245880335",
+        "lng": "0.5273437500000001"
+      }
+    },
+    {
+      "id": "87ab",
+      "cityName": "Meerut",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-09-02T03:06:32.174Z",
+      "notes": "",
+      "position": {
+        "lat": "28.806173508854776",
+        "lng": "77.73925781250001"
+      }
+    },
+    {
+      "id": "50ec",
+      "cityName": "Pamiers",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-09-03T05:08:32.856Z",
+      "notes": "",
+      "position": {
+        "lat": "43.12379026073815",
+        "lng": "1.5811729431152346"
+      }
+    },
+    {
+      "id": "ce57",
+      "cityName": "Boeng Char",
+      "country": "Cambodia",
+      "emoji": "🇰🇭",
+      "date": "2024-09-03T05:11:24.721Z",
+      "notes": "",
+      "position": {
+        "lat": "12.961735843534306",
+        "lng": "105.88623046875"
+      }
+    },
+    {
+      "id": "2b0b",
+      "cityName": "Gizab",
+      "country": "Afghanistan",
+      "emoji": "🇦🇫",
+      "date": "2024-09-03T05:22:04.025Z",
+      "notes": "",
+      "position": {
+        "lat": "33.50475906922609",
+        "lng": "66.26953125000001"
+      }
+    },
+    {
+      "id": "2f83",
+      "cityName": "Algiers",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-09-05T13:20:44.757Z",
+      "notes": "",
+      "position": {
+        "lat": "36.77711745986358",
+        "lng": "3.0531692504882812"
+      }
+    }
+  ]
+}
